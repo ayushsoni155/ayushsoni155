@@ -1,69 +1,225 @@
-# 💫 About Me:
-👨‍💻 Hi, I’m **Ayush Soni** – a passionate **Full-Stack Developer** skilled in **MERN stack, Java, MySQL, and cloud deployment**.  
-💡 I enjoy building **scalable applications**, integrating **AI-powered solutions**, and optimizing backend performance.  
-🚀 Currently working on:  
-- **SkillSyncAI** – An AI-powered placement preparation platform (mock interviews, dynamic quizzes, ML-based predictions, leaderboard & analytics).  
-- **ByteWise** – An academic toolkit for engineering students with semester resources, secure payments, and admin dashboard.  
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Ayush Soni</h1>
+<h3 align="center">Full Stack Developer | DevOps & Cloud Engineer</h3>
 
-🌱 I’m deepening my skills in **advanced backend development, AI models, and frontend design**.  
-🤝 Open to collaborating on **full-stack projects, AI-driven platforms, and impactful tech solutions**.  
-⚡ Fun fact: Outside of tech, I stay disciplined through structured **fitness & gym routines**.  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Engineer;DevOps+%26+Cloud+Engineer;Open+Source+Contributor;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 🌐 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://ayushsoni.vercel.app)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushsoni155)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Ayushsoni155)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushsoni.gcsb@gmail.com)  
+# 🚀 About Me
+
+💻 Passionate **Full Stack Developer & DevOps Engineer** focused on building scalable systems and cloud-native applications.
+
+- 🎓 B.Tech CSE Student
+- ⚡ Strong in **MERN Stack, DevOps, Cloud Infrastructure**
+- 🧠 Focused on **System Design, Automation & Scalable Architectures**
+- 🔍 Interested in **Distributed Systems & Infrastructure Engineering**
+- 🏗 Building real world production systems
+
+📍 Dewas, Madhya Pradesh, India
 
 ---
 
-# 💻 Tech Stack
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=database&logoColor=white)  
+# 🌐 Connect With Me
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  
+<p align="left">
+<a href="https://linkedin.com/in/ayushsoni155"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:ayushsoni.gcsb@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://github.com/ayushsoni155"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+<a href="https://ayushsoni.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"></a>
+</p>
 
-### UI & Styling
-![Material UI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![Framer Motion](https://img.shields.io/badge/FramerMotion-%23000000.svg?style=for-the-badge&logo=framer&logoColor=white)  
+---
 
-### Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-%23D82C20.svg?style=for-the-badge&logo=redis&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) 
-![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+# ⚡ Tech Stack
+
+## 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,js,ts" />
+</p>
+
+---
+
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,tailwind" />
+</p>
+
+---
+
+## 🧠 Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+---
+
+## 🗄 Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+---
+
+## ☁️ DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,ansible,jenkins,githubactions,linux" />
+</p>
+
+---
+
+## 📊 Monitoring & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,git,github,vscode,postman" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 SkillSyncAI — AI Placement Preparation Platform
+
+**Tech Stack:**  
+React.js • Node.js • Express.js • MongoDB
+
+Features:
+
+- 🤖 AI Mock Interviews
+- 📊 Placement Prediction (ML)
+- 🧠 Dynamic Quiz Generation
+- 🏆 Leaderboard & Analytics
+- ⚡ Automated feedback system
+
+Impact:
+
+- Reduced interview analysis time by **40%**
+
+---
+
+## ⚡ RapidBase — No-Code Database Platform
+
+**Tech Stack:**  
+Next.js • Node.js • Express.js • PostgreSQL
+
+Features:
+
+- 🧩 Visual database builder
+- 📊 Auto CRUD dashboards
+- 🔐 Secure REST API generation
+- 👥 Multi-user collaboration
+- 📈 Real-time analytics dashboards
+
+Impact:
+
+- Reduced setup time by **80%**
+
+---
+
+## 🎓 ByteWise — Engineering Academic Toolkit
+
+**Tech Stack:**  
+React.js • Node.js • Express.js • MySQL
+
+Features:
+
+- 📚 Semester wise study resources
+- 💳 Razorpay payment integration
+- 🎓 Free course showcase
+- 🛠 Admin dashboard
+
+Impact:
+
+- Helped **500+ students**
+
+---
+
+# ⚙️ DevOps Projects
+
+## 🚀 CI/CD Pipeline with Kubernetes
+
+Tools Used:
+
+- Jenkins
+- GitHub Actions
+- Docker
+- Kubernetes
+- Terraform
+- AWS
+- ArgoCD
+
+Features:
+
+- Automated CI/CD pipelines
+- Infrastructure provisioning with Terraform
+- Kubernetes deployments with rolling updates
+- Horizontal Pod Autoscaling
+- GitOps based deployment
+- Monitoring with Prometheus & Grafana
+
+---
+
+## ☁️ Infrastructure Automation & Monitoring
+
+Tools Used:
+
+- Terraform
+- Ansible
+- Kubernetes
+- Prometheus
+- Grafana
+
+Features:
+
+- Infrastructure as Code
+- Automated server configuration
+- Monitoring dashboards
+- Production-style alerting
 
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Ayushsoni155&theme=react&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ayushsoni155&theme=react&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushsoni155&theme=react&hide_border=false&layout=compact)  
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ayushsoni155&show_icons=true&theme=tokyonight" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsoni155&layout=compact&theme=tokyonight" height="170">
+
+</p>
 
 ---
 
-## 🏆 Achievements
-- 🥇 **1st Place – ProjectExpo 4.0 (2025)** – Won ₹3100 for an innovative project.  
-- 💡 **Top Performer – Codathon 2025** – Recognized among top competitive coders.  
-- 👨‍🏫 **Coordinator – Coding Club (2024)** – Organized Data Science workshop.  
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ayushsoni155&theme=tokyonight"/>
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Ayushsoni155&icon=10&color=13)](https://visitcount.itsvg.in)
+# 🧠 Currently Learning
+
+- Advanced System Design
+- Kubernetes Production Architectures
+- Distributed Systems
+- High Scale Backend Systems
+
+---
+
+# 🎯 Career Goal
+
+To build **high-scale cloud infrastructure and distributed systems** while solving real-world engineering problems.
+
+---
+
+<p align="center">
+⭐ If you like my work, consider giving a star to my repositories.
+</p>
