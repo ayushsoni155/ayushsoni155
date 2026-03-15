@@ -1,187 +1,159 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Ayush Soni</h1>
-<h3 align="center">Full Stack Developer | DevOps & Cloud Engineer</h3>
+<!-- PROFILE HEADER -->
+
+<h1 align="center">Hi 👋 I'm Ayush Soni</h1>
+
+<h3 align="center">
+Full Stack Developer | DevOps Engineer | Cloud Enthusiast
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Engineer;DevOps+%26+Cloud+Engineer;Open+Source+Contributor;Always+Learning+New+Things&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=700&height=60&duration=4000&lines=Full+Stack+Developer;DevOps+Engineer;Cloud+Infrastructure+Builder;MERN+Stack+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
 # 🚀 About Me
 
-💻 Passionate **Full Stack Developer & DevOps Engineer** focused on building scalable systems and cloud-native applications.
+💻 Full Stack Developer with strong DevOps and Cloud knowledge  
+🎓 B.Tech Computer Science Engineering  
+⚙️ Focused on scalable systems, automation, and distributed architecture  
 
-- 🎓 B.Tech CSE Student
-- ⚡ Strong in **MERN Stack, DevOps, Cloud Infrastructure**
-- 🧠 Focused on **System Design, Automation & Scalable Architectures**
-- 🔍 Interested in **Distributed Systems & Infrastructure Engineering**
-- 🏗 Building real world production systems
+**Core Interests**
 
-📍 Dewas, Madhya Pradesh, India
+- Cloud Infrastructure  
+- DevOps Automation  
+- Distributed Systems  
+- Full Stack Development  
+
+📍 India
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/ayushsoni155"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:ayushsoni.gcsb@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
-<a href="https://github.com/ayushsoni155"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-<a href="https://ayushsoni.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"></a>
+<p align="center">
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
 ---
 
 # ⚡ Tech Stack
 
-## 💻 Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,java,js,ts" />
+<img src="https://skillicons.dev/icons?i=cpp,java,js,ts"/>
 </p>
 
----
-
-## 🎨 Frontend
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap"/>
 </p>
 
----
-
-## 🧠 Backend
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
----
-
-## 🗄 Databases
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
 </p>
 
----
-
-## ☁️ DevOps & Cloud
+### DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,ansible,jenkins,githubactions,linux" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,ansible,jenkins,githubactions,linux"/>
 </p>
 
----
-
-## 📊 Monitoring & Tools
+### Monitoring
 
 <p>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=prometheus,grafana"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🧠 SkillSyncAI — AI Placement Preparation Platform
+## SkillSyncAI — AI Placement Preparation Platform
 
 **Tech Stack:**  
-React.js • Node.js • Express.js • MongoDB
+React • Node • Express • MongoDB
 
 Features:
 
-- 🤖 AI Mock Interviews
-- 📊 Placement Prediction (ML)
-- 🧠 Dynamic Quiz Generation
-- 🏆 Leaderboard & Analytics
-- ⚡ Automated feedback system
-
-Impact:
-
-- Reduced interview analysis time by **40%**
+- AI mock interviews
+- Placement prediction
+- Quiz generation
+- Leaderboard
+- Performance analytics
 
 ---
 
-## ⚡ RapidBase — No-Code Database Platform
+## RapidBase — No-Code Database Platform
 
 **Tech Stack:**  
-Next.js • Node.js • Express.js • PostgreSQL
+Next.js • Node.js • PostgreSQL
 
 Features:
 
-- 🧩 Visual database builder
-- 📊 Auto CRUD dashboards
-- 🔐 Secure REST API generation
-- 👥 Multi-user collaboration
-- 📈 Real-time analytics dashboards
-
-Impact:
-
-- Reduced setup time by **80%**
+- Visual database builder
+- Auto CRUD APIs
+- Dashboard generation
+- Real-time analytics
 
 ---
 
-## 🎓 ByteWise — Engineering Academic Toolkit
+## ByteWise — Engineering Student Platform
 
 **Tech Stack:**  
-React.js • Node.js • Express.js • MySQL
+React • Node • MySQL
 
 Features:
 
-- 📚 Semester wise study resources
-- 💳 Razorpay payment integration
-- 🎓 Free course showcase
-- 🛠 Admin dashboard
-
-Impact:
-
-- Helped **500+ students**
+- Study resources
+- Course marketplace
+- Razorpay integration
+- Admin dashboard
 
 ---
 
 # ⚙️ DevOps Projects
 
-## 🚀 CI/CD Pipeline with Kubernetes
+## CI/CD Pipeline with Kubernetes
 
-Tools Used:
+Tools:
 
-- Jenkins
-- GitHub Actions
 - Docker
 - Kubernetes
+- Jenkins
+- GitHub Actions
 - Terraform
-- AWS
 - ArgoCD
 
 Features:
 
-- Automated CI/CD pipelines
-- Infrastructure provisioning with Terraform
-- Kubernetes deployments with rolling updates
-- Horizontal Pod Autoscaling
-- GitOps based deployment
-- Monitoring with Prometheus & Grafana
-
----
-
-## ☁️ Infrastructure Automation & Monitoring
-
-Tools Used:
-
-- Terraform
-- Ansible
-- Kubernetes
-- Prometheus
-- Grafana
-
-Features:
-
+- Automated deployment pipelines
 - Infrastructure as Code
-- Automated server configuration
+- Kubernetes auto-scaling
+- GitOps workflow
 - Monitoring dashboards
-- Production-style alerting
 
 ---
 
@@ -189,9 +161,9 @@ Features:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayushsoni155&show_icons=true&theme=tokyonight" height="170">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsoni155&layout=compact&theme=tokyonight" height="170">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -200,26 +172,44 @@ Features:
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=ayushsoni155&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🧠 Currently Learning
+# 📈 Contribution Graph
 
-- Advanced System Design
-- Kubernetes Production Architectures
-- Distributed Systems
-- High Scale Backend Systems
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+</p>
 
 ---
 
-# 🎯 Career Goal
+# 🐍 Contribution Snake
 
-To build **high-scale cloud infrastructure and distributed systems** while solving real-world engineering problems.
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- System Design  
+- Kubernetes Production Systems  
+- Distributed Backend Architecture  
+- High Scale Infrastructure
+
+---
+
+# 🧠 Quote
+
+> "Great engineers build systems that scale, not just code that works."
 
 ---
 
 <p align="center">
-⭐ If you like my work, consider giving a star to my repositories.
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat"/>
+
 </p>
